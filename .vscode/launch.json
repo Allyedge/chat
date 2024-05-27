@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "com.allyedge.Main",
+      "projectName": "server"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.allyedge/com.allyedge.App",
+      "projectName": "client"
+    }
+  ]
+}
